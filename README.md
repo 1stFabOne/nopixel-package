@@ -1,4 +1,4 @@
-<img align="center" alt="PNG" src="https://cdn.discordapp.com/attachments/829443651028516885/835948473773719592/1.jpeg?raw=true" />
+<img align="center" alt="PNG" src="https://cdn.discordapp.com/attachments/835966527428755487/835967578420936766/np.jpg?raw=true" />
 
 ### Hakkında / Information
 Paketi oluşturan ben değilim, fakat handling ayarları tarafımca yeniden dizayn edildi.
