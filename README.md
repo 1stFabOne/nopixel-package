@@ -1,3 +1,5 @@
+<img align="center" alt="PNG" src="https://cdn.discordapp.com/attachments/829443651028516885/835948473773719592/1.jpeg?raw=true" />
+
 ### Hakkında / Information
 Paketi oluşturan ben değilim, fakat handling ayarları tarafımca yeniden dizayn edildi.
 ###
