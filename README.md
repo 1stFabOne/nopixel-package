@@ -5,7 +5,7 @@ Paketi oluşturan ben değilim, fakat handling ayarları tarafımca yeniden diza
 ###
 I'm not the one who created the package, but the handling settings were redesigned by me.
 ###
-mert#7777 | https://github.com/luvandevx
+luvaN#1000 | https://github.com/luvandevx
 
 ### Kurulum / Installation
 1) Son versiyonunu GitHub üzerinden indiriniz.
